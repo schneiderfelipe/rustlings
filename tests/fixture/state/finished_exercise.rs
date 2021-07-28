@@ -1,5 +1,3 @@
 // fake_exercise
 
-fn main() {
-
-}
+fn main() {}
