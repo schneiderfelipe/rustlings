@@ -11,13 +11,13 @@ runs.
 This exercise will get you familiar with two fundamental data
 structures that are used very often in Rust programs:
 
-* A *vector* allows you to store a variable number of values next to
-  each other.
-* A *hash map* allows you to associate a value with a particular key.
-  You may also know this by the names [*unordered map* in C++](https://en.cppreference.com/w/cpp/container/unordered_map), 
-  [*dictionary* in Python](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) or an *associative array* in other languages.
+-   A _vector_ allows you to store a variable number of values next to
+    each other.
+-   A _hash map_ allows you to associate a value with a particular key.
+    You may also know this by the names [_unordered map_ in C++](https://en.cppreference.com/w/cpp/container/unordered_map),
+    [_dictionary_ in Python](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) or an _associative array_ in other languages.
 
 ## Further information
 
-- [Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html)
-- [Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)
+-   [Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html)
+-   [Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)

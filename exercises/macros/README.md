@@ -6,5 +6,5 @@ macros. Instead, we'll show you how to use and create them.
 
 ## Further information
 
-- [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
-- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
+-   [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
+-   [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)

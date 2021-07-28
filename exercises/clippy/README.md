@@ -7,4 +7,4 @@ If not you can install it manually via `rustup component add clippy`.
 
 ## Further information
 
-- [GitHub Repository](https://github.com/rust-lang/rust-clippy).
+-   [GitHub Repository](https://github.com/rust-lang/rust-clippy).
